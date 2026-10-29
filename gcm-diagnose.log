@@ -1,0 +1,217 @@
+﻿Diagnose log at 2026-10-29T08:57:22Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.0+d34930736e131ad80e5690e5634ced1808aff3e2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26300)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Megha
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-6N0TB0NK
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+terraform=C:\terraform
+OneDrive=C:\Users\Megha\OneDrive
+EFC_21452_3789132940=1
+ProgramFiles(x86)=C:\Program Files (x86)
+TMP=C:\Users\Megha\AppData\Local\Temp
+CONFIG_SITE=C:/Program Files/Git/etc/config.site
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+MSYSTEM_PREFIX=C:/Program Files/Git/mingw64
+USERNAME=Megha
+INFOPATH=C:\Program Files\Git\mingw64\local\info;C:\Program Files\Git\mingw64\share\info;C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+TEMP=C:\Users\Megha\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Megha\AppData\Local
+MANPATH=C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+SESSIONNAME=Console
+EFC_21452_4126798990=1
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+JAVA_HOME=C:\Program Files\Java\jdk-23
+EFC_21452_1592913036=1
+ORIGINAL_TMP=C:/Users/Megha/AppData/Local/Temp
+PROCESSOR_REVISION=9a04
+SYSTEMROOT=C:\WINDOWS
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=8
+SSH_ASKPASS=C:/Program Files/Git/mingw64/bin/git-askpass.exe
+SHLVL=1
+APPDATA=C:\Users\Megha\AppData\Roaming
+SYSTEMDRIVE=C:
+TERM_PROGRAM_VERSION=3.7.1
+ZES_ENABLE_SYSMAN=1
+EFC_21452_2283032206=1
+PUBLIC=C:\Users\Public
+FPS_BROWSER_USER_PROFILE_STRING=Default
+PKG_CONFIG_PATH=C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-6N0TB0NK
+MSYSTEM_CHOST=x86_64-w64-mingw32
+ORIGINAL_TEMP=C:/Users/Megha/AppData/Local/Temp
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMl+LvYy+50WZbEwx+0mEuwQAAAACAAAAAAAQZgAAAAEAACAAAABVSW58qZZ24kmoKQneSLQoqGWvbjnfdZuB7i0doB5gEAAAAAAOgAAAAAIAACAAAABiJ6QgL0lc/w1UJhsR9GX6ARJxQ1Vdw8s1ZGxUh6OeA2AAAAB23p7JmjWuykGe7fAME1eBtdHAg7CgKosOCPsxCYJ7BJbLs5ZlvoIqaruN6vamO7YMtOVk1GOgg00R9MAXrCxOsd0/2FoojMHbgRtSUQm3766r8zWqguC1ivpqRbqLxqFAAAAAfti0QgahALCJyqkk9fRzfJEQmfXhwII1U3v8Cdu66fsJrAWvY9j85vaV6JTHoFqVzYfaRf3nxLHlxkc4ZLkh7Q==
+EFC_21452_2946480783=1
+PLINK_PROTOCOL=ssh
+EFC_21452_1262719628=1
+MSYS=disable_pcon
+PATH=C:/Program Files/Git/mingw64/libexec/git-core;C:\Users\Megha\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Megha\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\PuTTY;C:\Program Files\dotnet;C:\Program Files\Java\jdk-23;C:\Program Files\Apache Software Foundation\Tomcat 10.1\bin;C:\t1;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Docker\Docker\resources\bin;C:\Terraform;C:\Users\Megha\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\Megha\AppData\Local\Programs\Python\Python312;C:\Users\Megha\AppData\Local\Programs\Python\Launcher;C:\Users\Megha\AppData\Local\Microsoft\WindowsApps;C:\Users\Megha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Java\jdk-23\bin;C:\Users\Megha\.dotnet\tools;C:\t1;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;C:\Program Files\Amazon\AWSCLIV2\
+MINGW_CHOST=x86_64-w64-mingw32
+GIT_TRACE2_PARENT_SID=3fd5a89b-5cad-41f5-ae97-5db6ce3acec8
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Program Files/Git/mingw64/lib
+ORIGINAL_PATH=C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Megha\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\PuTTY;C:\Program Files\dotnet;C:\Program Files\Java\jdk-23;C:\Program Files\Apache Software Foundation\Tomcat 10.1\bin;C:\t1;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files\Docker\Docker\resources\bin;C:\Terraform;C:\Users\Megha\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\Megha\AppData\Local\Programs\Python\Python312;C:\Users\Megha\AppData\Local\Programs\Python\Launcher;C:\Users\Megha\AppData\Local\Microsoft\WindowsApps;C:\Users\Megha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Java\jdk-23\bin;C:\Users\Megha\.dotnet\tools;C:\t1
+TMPDIR=C:\Users\Megha\AppData\Local\Temp
+TERM=xterm
+SHELL=C:\Program Files\Git\usr\bin\bash.exe
+HOME=C:\Users\Megha
+CATLINA_HOME=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+PROCESSOR_ARCHITEW6432=AMD64
+LOGONSERVER=\\LAPTOP-6N0TB0NK
+USERPROFILE=C:\Users\Megha
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+WINDIR=C:\WINDOWS
+USERDOMAIN=LAPTOP-6N0TB0NK
+CommonProgramW6432=C:\Program Files\Common Files
+HOMEDRIVE=C:
+OLDPWD=C:/Users/Megha/OneDrive/Desktop/project
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+JAVA_BIN=C:\Program Files\Java\jdk-22\bin
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PWD=C:/Users/Megha/OneDrive/Desktop/project/new-projectrepo
+EXEPATH=C:\Program Files\Git
+HOSTNAME=LAPTOP-6N0TB0NK
+MINGW_PREFIX=C:/Program Files/Git/mingw64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+ProgramW6432=C:\Program Files
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Program Files/Git/mingw64/include
+_=C:/Program Files/Git/mingw64/bin/git
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Megha\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Megha\AppData\Local\Temp\12d1447ea0e000234619760d'... OK
+Reading from temporary file 'C:\Users\Megha\AppData\Local\Temp\12d1447ea0e000234619760d'... OK
+Deleting temporary file 'C:\Users\Megha\AppData\Local\Temp\12d1447ea0e000234619760d'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Megha
+UserDataDirectoryPath: C:\Users\Megha\.gcm
+GetCurrentDirectory(): C:\Users\Megha\OneDrive\Desktop\project\new-projectrepo
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:65120/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.45.1.windows.1'
+Locating current repository...Git repository at 'C:/Users/Megha/OneDrive/Desktop/project/new-projectrepo/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=input
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Megha/.gitconfig	user.name=amit
+file:C:/Users/Megha/.gitconfig	user.email=amit@gmial.com
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Amit-4535/new-projectrepo.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Megha\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Megha\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+

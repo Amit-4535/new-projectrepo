@@ -1,2 +1,1 @@
-print('Salary is correct')
-# comment added
+print('Wrong Salary')

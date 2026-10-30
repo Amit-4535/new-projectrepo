@@ -1,0 +1,1 @@
+print('Salary is correct')
